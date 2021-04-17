@@ -1,0 +1,41 @@
+body{margin: 0;
+  background-image: url("images/zaha.jpg");
+text-align: center;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  width:400px;
+  margin: auto;
+  font-size: 90px;
+  color: #0000ff
+
+}
+h2{font-size: 50px;
+color: #ffffff;}
+p{
+  font-family: 'Nova Flat', cursive;
+  font-size: 40px;
+  color: #ffffff;
+}
+.top-container{padding-top: 100px;
+position: relative;}
+.top-cloud{position: absolute;
+right: 300px;
+top: 50px;}
+.bottom-cloud{position: absolute;
+left: 300px;
+bottom: 300px;}
+.mypic{height: 30%;
+width:30%; }
+.gif{height: 20%;
+width: 20%;}
+.footer-link{font-size: 30px;}
+#llc {font-size: 20px;}
+#haters{color: #731D1D;margin-top: 10;margin-bottom: 10;
+}
+.bottom-container{margin: 50px; word-spacing: 5em;}
+.gif{height: 100%;
+width: 30%;}
+.contact-me{
+  font-family: 'Nunito', sans-serif;
+}
